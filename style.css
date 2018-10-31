@@ -1,0 +1,34 @@
+body
+{
+    text-align: center;
+    margin: 10% 30% 10% 30%;
+}
+
+table
+{
+    padding: 5px;
+    border: solid 1px chocolate;
+    background: chocolate;
+}
+td
+{
+    background: khaki;
+    height: 100px;
+    width: 100px;
+    border: solid 1px chocolate;
+    font-size: xx-large;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+input
+{
+    margin: 20px 120px 0px 0px;
+    background-color: darkolivegreen;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
